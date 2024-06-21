@@ -5,7 +5,7 @@ import os
 
 #Monday board exporter by Joshua Gest
 #This is a rough script that will export a board from monday.com using their API v2 and dump it to a CSV File.
-
+#Licensed under MIT License
 
 #Declare Constants
 apiKey = input("Please Input your Monday.com v2 API Key: ")
